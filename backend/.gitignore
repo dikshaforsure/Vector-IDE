@@ -1,0 +1,12 @@
+# Keep backend services safe when used outside the repository root.
+node_modules/
+.env
+.env.*
+!.env.example
+!.env.template
+serviceAccountKey.json
+*-service-account.json
+*.pem
+*.key
+dist/
+*.log
