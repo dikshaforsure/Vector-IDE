@@ -7,7 +7,7 @@ const plans = [
     {
         key: "free",
         name: "Free",
-        description: "For trying out the VertexAI IDE.",
+        description: "For trying out the Vector-IDE.",
         price: "₹0",
         period: "/month",
         credits: "100 AI credits",
